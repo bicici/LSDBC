@@ -8,7 +8,7 @@ Citation:
 Ergun Biçici and Deniz Yuret. Locally Scaled Density Based Clustering. In Proceedings of the 8th International Conference on Adaptive and Natural Computing Algorithms (ICANNGA 2007), LNCS 4431, volume 4431, Warsaw, Poland, pages 739-748, April 2007.
 
 
-This code is available here: https://github.com/ai-ku/lsdbc
+This code is also available here: https://github.com/ai-ku/lsdbc
 
 
 Bibtex item:
