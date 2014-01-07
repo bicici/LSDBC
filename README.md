@@ -3,14 +3,16 @@ LSDBC
 
 Locally Scaled Density Based Clustering
 
-** CLSDBC: C implementation for Locally Scaled Density Based Clustering
-**
-** Version: 1.0 Date: 19/07/2006
-** Version: 1.1 Date: 21/02/2014
-**
-** Author: Ergun Bicici
-**
-** Copyright: Ergun Bicici, 19/07/2006, 21/02/2014.
+CLSDBC: C implementation for Locally Scaled Density Based Clustering
+
+Version: 1.0 Date: 19/07/2006
+
+Version: 1.1 Date: 21/02/2014
+
+Author: Ergun Bicici
+
+Copyright: Ergun Bicici, 19/07/2006, 21/02/2014.
+
 
 Citation:
 
