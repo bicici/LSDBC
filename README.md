@@ -56,9 +56,11 @@ note = {Springer-Verlag}
 */
 
 For compiling: 
+
 gcc -o clsdbc clsdbc.c -lm
 
 For debugging with kdgb: 
+
 gcc -g -o clsdbc clsdbc.c -lm
 
 Usage: %s [options] matrix_file
@@ -68,7 +70,10 @@ Input matrix_file format: Dense text.
 Example:
 
 3
+
 0   0.1        4.2
+
 0.1 0        2.2
+
 4.2 2.2        0
 
